@@ -1,3 +1,5 @@
+[![YunYi-zyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunYi-zyi)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @YunYi-zyi.
 - 👀 I’m interested in Rust,AI,Open Source and Raspberry Pi.
 - 🌱 I’m currently learning Rust.
