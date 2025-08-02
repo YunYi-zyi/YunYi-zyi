@@ -53,7 +53,7 @@
 
 | 平台       | 链接 |
 |------------|------|
-| 📬 邮箱     | [your.email@example.com](mailto:aarch4082@outlook.com) |
+| 📬 邮箱     | [aarch4082@outlook.com](mailto:aarch4082@outlook.com) |
 | 🐦 Bilibili | [space.bilibili.com/3493121973291489](https://space.bilibili.com/3493121973291489) |
 
 ---
