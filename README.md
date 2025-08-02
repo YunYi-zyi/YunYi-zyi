@@ -25,7 +25,6 @@
 #### 开发工具
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -36,8 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YunYi-zyi&show_icons=true&theme=radical&border_radius=10" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunYi-zyi&layout=compact&theme=radical&border_radius=10" width="48%" />
 </div>
-
-> 🔍 图表自动统计我的开源贡献，反映学习轨迹与技术偏好
 
 ---
 
